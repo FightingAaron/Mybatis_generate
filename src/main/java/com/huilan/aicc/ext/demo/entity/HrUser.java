@@ -3,6 +3,7 @@ package com.huilan.aicc.ext.demo.entity;
 import java.util.Date;
 
 public class HrUser {
+	
     private Integer id;
 
     private String username;
